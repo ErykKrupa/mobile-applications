@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic- tac- toe</string>
+    <string name="crossWinsMessage">Cross wins!</string>
+    <string name="circleWinsMessage">Circle wins!</string>
+    <string name="nobodyWinsMessage">Tie…</string>
+    <string name="runWithoutBot">Run without bot</string>
+    <string name="runWithBot">Run with bot</string>
+    <string name="restartWithoutBot">Restart without bot</string>
+    <string name="restartWithBot">Restart with bot</string>
+</resources>
