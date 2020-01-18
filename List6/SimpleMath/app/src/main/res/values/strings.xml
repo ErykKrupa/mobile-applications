@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SimpleMath</string>
+    <string-array name="operations">
+        <item>Simplify</item>
+        <item>Factor</item>
+        <item>Derive</item>
+        <item>Integrate</item>
+        <item>Find 0\'s</item>
+        <item>Find Tangent</item>
+        <item>Area Under Curve</item>
+        <item>Cosine</item>
+        <item>Sine</item>
+        <item>Tangent</item>
+        <item>Inverse Cosine</item>
+        <item>Inverse Sine</item>
+        <item>Inverse Tangent</item>
+        <item>Absolute Value</item>
+        <item>Logarithm</item>
+    </string-array>
+</resources>
