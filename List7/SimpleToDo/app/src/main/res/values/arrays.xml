@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="category_graphics">
+        <item>@drawable/ic_home_white_24dp</item>
+        <item>@drawable/ic_group_white_24dp</item>
+        <item>@drawable/ic_phone_white_24dp</item>
+        <item>@drawable/ic_fitness_center_white_24dp</item>
+        <item>@drawable/ic_work_white_24dp</item>
+        <item>@drawable/ic_warning_white_24dp</item>
+        <item>@drawable/ic_terrain_white_24dp</item>
+    </integer-array>
+    <array name="category_colors">
+        <item>#0AE</item>
+        <item>#AE0</item>
+        <item>#EA0</item>
+        <item>#0EA</item>
+        <item>#A0E</item>
+        <item>#E33</item>
+        <item>#3C3</item>
+    </array>
+</resources>

@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.example.simpletodo.MainActivity">
+    <item android:id="@+id/action_search"
+          android:title="Search"
+          android:orderInCategory="0"
+          app:showAsAction="always"
+          android:icon="@drawable/ic_search_white_24dp"
+    />
+    <item android:id="@+id/action_populate"
+          android:title="Generate tasks"
+          android:orderInCategory="1"
+    />
+    <item android:id="@+id/action_clear_done"
+          android:title="Remove done"
+          android:orderInCategory="2"/>
+    <item android:id="@+id/action_clear_all"
+          android:title="Remove all"
+          android:orderInCategory="2"/>
+</menu>
